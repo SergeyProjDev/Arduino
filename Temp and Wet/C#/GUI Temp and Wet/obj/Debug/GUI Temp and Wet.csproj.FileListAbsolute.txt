@@ -1,0 +1,10 @@
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\bin\Debug\GUI Temp and Wet.exe.config
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\bin\Debug\GUI Temp and Wet.exe
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\bin\Debug\GUI Temp and Wet.pdb
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\obj\Debug\GUI Temp and Wet.csprojAssemblyReference.cache
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\obj\Debug\GUI_Temp_and_Wet.Form1.resources
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\obj\Debug\GUI_Temp_and_Wet.Properties.Resources.resources
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\obj\Debug\GUI Temp and Wet.csproj.GenerateResource.cache
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\obj\Debug\GUI Temp and Wet.csproj.CoreCompileInputs.cache
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\obj\Debug\GUI Temp and Wet.exe
+D:\Projects\Arduino\temperature and wet\C# interface\GUI Temp and Wet\GUI Temp and Wet\obj\Debug\GUI Temp and Wet.pdb
